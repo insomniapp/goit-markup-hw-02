@@ -57,17 +57,13 @@ ul {
 .hero-section{
     background-color: #2E2F42;
 }
-
 .hero-text{
-    margin-left: auto;
-    margin-right: auto;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 1.12px;
     color: #FFF;
 }
-
 .button-design{
     background-color: #4D5AE5;
     font-family: 'Roboto', sans-serif;
@@ -86,6 +82,9 @@ ul {
     background: #404BBF;
 }
 /* company adventage */
+.company-advantege-head{
+    display: none;
+}
 .company-blocks-title{
     font-weight: 500;
     font-size: 20px;
@@ -95,7 +94,7 @@ ul {
 }
 .company-blocks-li-description{
     font-size: 16px;
-    line-height: 1.6x;
+    line-height: 1.5;
     letter-spacing: 0.32px;
     color:#434455;
 }
@@ -108,7 +107,7 @@ ul {
     text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.111;
+    line-height: 1.11;
     letter-spacing: 0.72px;
     text-transform: capitalize;
 }
@@ -134,7 +133,7 @@ color: #2E2F42;
 text-align: center;
 font-size: 36px;
 font-weight: 700;
-line-height: 1.111;
+line-height: 1.11;
 letter-spacing: 0.72px;
 text-transform: capitalize;
 }
@@ -151,9 +150,7 @@ text-transform: capitalize;
     letter-spacing: 0.32px;
     color: #434455;
 }
-.portfolio-block{
-    background-color: #FFF;
-}
+
 /* footer */
 .footer-box{
     background-color: #2E2F42;}
@@ -162,7 +159,7 @@ text-transform: capitalize;
 }
 .description {
     font-size: 16px;
-    line-height: 1.5x;
+    line-height: 1.5px;
     color: #F4F4FD;
     letter-spacing: 0.32px;
 }
